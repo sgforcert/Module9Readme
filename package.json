@@ -1,0 +1,16 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "This application was created using node.js to generate professional README.md docs from the command line, and aims to cut down on the amount of time developers are using to write their README.md files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node.js": "^0.0.1-security"
+  },
+  "keywords": []
+}
